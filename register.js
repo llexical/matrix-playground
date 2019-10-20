@@ -38,7 +38,7 @@ async function stage2Request(sessionId) {
         "kind": "user",
         username,
         password,
-        "initial_device_display_name": "postman"
+        "initial_device_display_name": "nodescript"
     }
   });
   return response;
